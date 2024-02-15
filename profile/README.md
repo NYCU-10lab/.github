@@ -9,9 +9,9 @@
 - Biofuel 生質能源  
 
 ### **Recent lectures:**  
-Parallel computation 平行運算
-Artificial intelligence algorithm development 人工智慧演算法開發
-Golang programming Go 程式設計  
+- Parallel computation 平行運算
+- Artificial intelligence algorithm development 人工智慧演算法開發
+- Golang programming Go 程式設計  
 
 ## Computational Structural Biology
 With the assistance of computer science, we are exploring the world by studying the structure and function of biological molecules like proteins and DNA. Our lab is devoted to developing algorithms and computational systems applicable to protein structure prediction, drug design, protein engineering, biofuel production, and environmental protection. Several state-of-the-art web services and novel databases of computational biology have marked us a creative and energetic digital lab.
