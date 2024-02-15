@@ -1,4 +1,4 @@
-# (10Lab)[http://10.life.nctu.edu.tw/]
+# [10Lab](http://10.life.nctu.edu.tw/)
 
 ## This laboratory led by Dr. Wei-Cheng Lo has long been utilizing computer science for biological and medical research. The name 10Lab stands for the digital science (1 & 0) lab of Dr. Lo (lower case: lo).
 
