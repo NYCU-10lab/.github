@@ -1,6 +1,6 @@
 # 10Lab
 
-## This laboratory led by Dr. Wei-Cheng Lo has long been utilizing computer science for biological and medical research. The name 10Lab stands for the digital science (1 & 0) lab of Dr. Lo (lower case: lo).
+This laboratory led by Dr. Wei-Cheng Lo has long been utilizing computer science for biological and medical research. The name 10Lab stands for the digital science (1 & 0) lab of Dr. Lo (lower case: lo).
 
 ### **Recent research interests:**  
 Protein structure prediction, Antibody drug design, Protein engineering technique development, Biofuel  
